@@ -6,7 +6,7 @@
   <link href="https://nintendoggy.github.io/atom.xml" rel="self"/>
   
   <link href="https://nintendoggy.github.io/"/>
-  <updated>2020-12-09T06:02:29.398Z</updated>
+  <updated>2020-12-14T10:23:27.403Z</updated>
   <id>https://nintendoggy.github.io/</id>
   
   <author>
@@ -17,36 +17,86 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>article title</title>
-    <link href="https://nintendoggy.github.io/2020/12/09/article-title/"/>
-    <id>https://nintendoggy.github.io/2020/12/09/article-title/</id>
-    <published>2020-12-09T06:02:29.000Z</published>
-    <updated>2020-12-09T06:02:29.398Z</updated>
+    <title>BootStrap学习笔记三</title>
+    <link href="https://nintendoggy.github.io/2020/12/14/bootstrap-3/"/>
+    <id>https://nintendoggy.github.io/2020/12/14/bootstrap-3/</id>
+    <published>2020-12-14T09:43:00.000Z</published>
+    <updated>2020-12-14T10:23:27.403Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;BootStrap学习笔记三&quot;&gt;&lt;a href=&quot;#BootStrap学习笔记三&quot; class=&quot;headerlink&quot; title=&quot;BootStrap学习笔记三&quot;&gt;&lt;/a&gt;BootStrap学习笔记三&lt;/h1&gt;&lt;hr&gt;
+&lt;h2 id=&quot;1-字体图标&quot;&gt;&lt;a</summary>
+        
+      
     
     
     
+    <category term="BootStrap" scheme="https://nintendoggy.github.io/categories/BootStrap/"/>
     
+    
+    <category term="BootStrap" scheme="https://nintendoggy.github.io/tags/BootStrap/"/>
+    
+    <category term="前端框架" scheme="https://nintendoggy.github.io/tags/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/"/>
     
   </entry>
   
   <entry>
-    <title>第一篇文章</title>
-    <link href="https://nintendoggy.github.io/2020/12/09/hello-world/"/>
-    <id>https://nintendoggy.github.io/2020/12/09/hello-world/</id>
-    <published>2020-12-09T05:34:17.183Z</published>
-    <updated>2020-12-09T06:18:14.348Z</updated>
+    <title>BootStrap学习笔记二</title>
+    <link href="https://nintendoggy.github.io/2020/12/13/bootstrap-2/"/>
+    <id>https://nintendoggy.github.io/2020/12/13/bootstrap-2/</id>
+    <published>2020-12-13T13:49:00.000Z</published>
+    <updated>2020-12-14T09:58:52.349Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;p&gt;BootStrap学习笔记二&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;1-栅格系统&quot;&gt;&lt;a href=&quot;#1-栅格系统&quot; class=&quot;headerlink&quot; title=&quot;1. 栅格系统&quot;&gt;&lt;/a&gt;1. 栅格系统&lt;/h2&gt;&lt;p&gt;Bootstrap</summary>
         
       
     
     
     
+    <category term="BootStrap" scheme="https://nintendoggy.github.io/categories/BootStrap/"/>
+    
+    
+    <category term="BootStrap" scheme="https://nintendoggy.github.io/tags/BootStrap/"/>
+    
+    <category term="前端框架" scheme="https://nintendoggy.github.io/tags/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>BootStrap学习笔记一</title>
+    <link href="https://nintendoggy.github.io/2020/12/10/bootstrap-1/"/>
+    <id>https://nintendoggy.github.io/2020/12/10/bootstrap-1/</id>
+    <published>2020-12-09T20:35:00.000Z</published>
+    <updated>2020-12-14T10:18:58.508Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-BootStrap引言&quot;&gt;&lt;a href=&quot;#1-BootStrap引言&quot; class=&quot;headerlink&quot; title=&quot;1. BootStrap引言&quot;&gt;&lt;/a&gt;1. BootStrap引言&lt;/h2&gt;&lt;p&gt;什么是BootStrap？&lt;br&gt;   </summary>
+        
+      
+    
+    
+    
+    <category term="BootStrap" scheme="https://nintendoggy.github.io/categories/BootStrap/"/>
+    
+    
+    <category term="BootStrap" scheme="https://nintendoggy.github.io/tags/BootStrap/"/>
+    
+    <category term="前端框架" scheme="https://nintendoggy.github.io/tags/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/"/>
     
   </entry>
   
